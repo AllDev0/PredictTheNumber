@@ -1,0 +1,17 @@
+<resources>
+    <string name="app_name">Predict The Number</string>
+    <string name="dice">Casino Dice Image</string>
+    <string name="start_game">Start Game</string>
+    <string name="remaining_tries">Remaining Tries : </string>
+    <string name="predict">Predict</string>
+    <string name="guess_the_number">Guess The Number!</string>
+    <string name="you_win">You Win!</string>
+    <string name="you_lost">You Lost!</string>
+    <string name="happy_image">Happy Image</string>
+    <string name="sad_image">Sad Image</string>
+    <string name="something_went_wrong">Something went wrong!</string>
+    <string name="hint_increase">Increase</string>
+    <string name="hint_decrease">Decrease</string>
+    <string name="hint">"Hint : "</string>
+
+</resources>

@@ -1,0 +1,17 @@
+<?xml version="1.0" encoding="utf-8"?>
+<resources>
+    <string name="app_name">Sayıyı Tahmin Et</string>
+    <string name="dice">Kumarhane Zar Resmi</string>
+    <string name="start_game">Oyuna Başla</string>
+    <string name="remaining_tries">Kalan Hak : </string>
+    <string name="predict">Tahmin</string>
+    <string name="guess_the_number">Sayıyı Tahmin Et!</string>
+    <string name="you_win">Kazandınız</string>
+    <string name="you_lost">Kaybettiniz!</string>
+    <string name="happy_image">Mutlu Resim</string>
+    <string name="sad_image">Üzgün Resim</string>
+    <string name="something_went_wrong">Bir şeyler yanlış gitti!</string>
+    <string name="hint_increase">Arttır</string>
+    <string name="hint_decrease">Azalt</string>
+    <string name="hint">"İpucu : "</string>
+</resources>
